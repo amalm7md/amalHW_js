@@ -2,7 +2,7 @@
 const A_hw = require('./hw.json');
 // all data
 console.log(A_hw);
-//--------------------------------------------------------//
+//---------------------------------------------------------//
 // 1- All batter types 
 function batter_type(){
       for (let i = 0; i <= A_hw.length; i++) {
@@ -12,7 +12,7 @@ function batter_type(){
 
 }}}   
 batter_type();
-//----------------------------------------------------//
+//-----------------------------------------------------//
 // 2- ALL topping type 
 function topping_type(){
       for (let i = 0; i <= A_hw.length; i++) {
