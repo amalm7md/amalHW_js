@@ -1,6 +1,6 @@
 
 const A_hw = require('./hw.json');
-// all data
+// all data in file
 console.log(A_hw);
 //-------------------------------------------------------------//
 // 1- All batter types 
